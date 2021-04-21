@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CS212.cpp">
+    <ClCompile Include="p2 bitwise operators.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
