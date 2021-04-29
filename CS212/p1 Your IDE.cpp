@@ -1,12 +1,14 @@
-// CS212.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Program 1: Your IDE
 // Gary Tou
 // April 14, 2021
 
 #include <iostream>
 
-int main()
+int p1()
 {
     std::cout << "Hello World!\n";
+
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

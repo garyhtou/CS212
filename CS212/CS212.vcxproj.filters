@@ -21,5 +21,11 @@
     <ClCompile Include="p1 Your IDE.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CS212.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="p3 simplify to c.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

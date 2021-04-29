@@ -5,7 +5,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int p2()
 {
     int TEST = 14;
 
@@ -48,4 +48,6 @@ int main()
     16. hexadecimal 0x0000ff00 converts to decimal is 65280 (converts to binary is 1111111100000000)
     17. hexadecimal 0x12abcdef converts to decimal is 313249263 (converts to binary is 10010101010111100110111101111)
     */
+
+    return 0;
 }
