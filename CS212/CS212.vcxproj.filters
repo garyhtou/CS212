@@ -21,10 +21,10 @@
     <ClCompile Include="p1 Your IDE.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CS212.cpp">
+    <ClCompile Include="p3 simplify to c.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="p3 simplify to c.c">
+    <ClCompile Include="p4 2d arrays.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

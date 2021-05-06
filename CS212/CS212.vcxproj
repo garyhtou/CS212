@@ -141,8 +141,8 @@
   <ItemGroup>
     <ClCompile Include="p1 Your IDE.cpp" />
     <ClCompile Include="p2 bitwise operators.cpp" />
-    <ClCompile Include="CS212.cpp" />
     <ClCompile Include="p3 simplify to c.c" />
+    <ClCompile Include="p4 2d arrays.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

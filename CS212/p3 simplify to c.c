@@ -6,7 +6,7 @@ Gary Tou <gary@garytou.com> (https://garytou.com)
 #include <stdio.h>
 #include <math.h>
 
-int main()
+int p3()
 {
 	int annualSalary;
 	double taxRate;
