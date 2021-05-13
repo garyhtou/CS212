@@ -27,5 +27,13 @@
     <ClCompile Include="p4 2d arrays.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="p5 Pointers with C-strings.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="p5 Pointers with C-strings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
