@@ -7,7 +7,7 @@
 CS212 Program Assignment #5:  FIX project5.h
 
 */
-int main()
+int p5()
 {
     size_t x;
     char orgName[100] = "United Nations";

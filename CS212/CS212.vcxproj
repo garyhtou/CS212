@@ -144,9 +144,13 @@
     <ClCompile Include="p3 simplify to c.c" />
     <ClCompile Include="p4 2d arrays.c" />
     <ClCompile Include="p5 Pointers with C-strings.c" />
+    <ClCompile Include="p6 operator overloading %28test%29.cpp" />
+    <ClCompile Include="p7 TestArrayList.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p5 Pointers with C-strings.h" />
+    <ClInclude Include="p6 operator overloading (complex).h" />
+    <ClInclude Include="p7 ArrayList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

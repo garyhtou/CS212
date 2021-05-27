@@ -30,10 +30,22 @@
     <ClCompile Include="p5 Pointers with C-strings.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="p6 operator overloading %28test%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="p7 TestArrayList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p5 Pointers with C-strings.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="p6 operator overloading (complex).h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="p7 ArrayList.h">
+      <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
