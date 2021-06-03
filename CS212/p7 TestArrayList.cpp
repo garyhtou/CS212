@@ -7,7 +7,7 @@ using namespace std;
 // by W.P. Iverson, May 2021
 // for BC CS212 class
 
-int main()
+int p7()
 {
 	ArrayList<int> list1; // Program #7 assignment
 	vector<int> vlist1;   // example of the C++ standard vector
