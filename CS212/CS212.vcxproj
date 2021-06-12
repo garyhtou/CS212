@@ -148,12 +148,15 @@
     <ClCompile Include="p7 TestArrayList.cpp" />
     <ClCompile Include="p8 memeory management (PersonNode).cpp" />
     <ClCompile Include="p8 memory management (main).cpp" />
+    <ClCompile Include="p9 test.cpp" />
+    <ClCompile Include="p9 test2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p5 Pointers with C-strings.h" />
     <ClInclude Include="p6 operator overloading (complex).h" />
     <ClInclude Include="p7 ArrayList.h" />
     <ClInclude Include="p8 memory management (PersonNode).h" />
+    <ClInclude Include="p9 LinkedList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

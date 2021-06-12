@@ -6,7 +6,7 @@
 */
 #include "p8 memory management (PersonNode).h"
 
-int main() {
+int p8() {
 	// Load nodes with data
 	PersonNode* head = new PersonNode("Fred Davey", "240-555-2104");
 	PersonNode* current = new PersonNode("Gerald Berger", "802-555-4986");
