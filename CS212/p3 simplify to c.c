@@ -13,7 +13,7 @@ int p3()
 	int taxToPay;
 
 	printf("Enter annual salary: \n"); // Prompt the user into input their annual salary
-	scanf("%i", &annualSalary); // scan the user's annual salary
+	scanf_s("%i", &annualSalary); // scan the user's annual salary
 
 	// Determine the tax rate from the annual salary
 	if (annualSalary < 0) {

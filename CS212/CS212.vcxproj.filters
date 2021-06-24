@@ -48,6 +48,9 @@
     <ClCompile Include="p9 test2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="p10 TreeTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p5 Pointers with C-strings.h">
@@ -63,6 +66,9 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="p9 LinkedList.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="p10 TreeSet.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

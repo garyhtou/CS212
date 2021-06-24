@@ -10,7 +10,7 @@
 #include "p9 LinkedList.h"
 using namespace std;
 
-int main()
+int p9()
 {
 	// Create a list for strings
 	LinkedList<string> list;

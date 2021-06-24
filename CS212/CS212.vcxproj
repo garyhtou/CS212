@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="p1 Your IDE.cpp" />
+    <ClCompile Include="p10 TreeTest.cpp" />
     <ClCompile Include="p2 bitwise operators.cpp" />
     <ClCompile Include="p3 simplify to c.c" />
     <ClCompile Include="p4 2d arrays.c" />
@@ -152,6 +153,7 @@
     <ClCompile Include="p9 test2.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="p10 TreeSet.h" />
     <ClInclude Include="p5 Pointers with C-strings.h" />
     <ClInclude Include="p6 operator overloading (complex).h" />
     <ClInclude Include="p7 ArrayList.h" />

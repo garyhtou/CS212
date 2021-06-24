@@ -41,7 +41,7 @@ int p4() {
     numSalaries = 0;
 
     printf("\nEnter annual salary (0 to exit): \n");
-    scanf("%i", &annualSalary);
+    scanf_s("%i", &annualSalary);
 
     while ((annualSalary > 0) && (numSalaries < MAX_ELEMENTS)) {
         i = 0;
@@ -68,7 +68,7 @@ int p4() {
 
         // Get the next annual salary
         printf("\nEnter annual salary (0 to exit): \n");
-        scanf("%i", &annualSalary);
+        scanf_s("%i", &annualSalary);
     } // End outer while loop (valid annualSalary entered)
 
     // Sum the annual salaries and taxes to pay and print the totals
